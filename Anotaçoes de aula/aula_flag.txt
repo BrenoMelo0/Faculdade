@@ -1,0 +1,9 @@
+* evitar o uso de break dentro do while pois dificulta a manutenao e teste do software
+
+*Array
+    -Sao estruturas de dados que sao homogeneas, podendo ser unidimencionais ou multimencionais.
+    -para declarar um array vetor(apenas uma dimensao) basta digitar tipo de dado, nome da variavel e o tamanho do array (int x[5];)    
+        exemplo:
+        int x [5];
+        x[0] = 20; --nesse caso esta sendo declarado que na posiçao 0 do array x ira guardar o numero 20, cada um dos 5 espaços pode guardar um numero inteiro
+    -
